@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>15G31</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Parking Simulator Final</string>
+	<key>CFBundleExecutable</key>
+	<string>Parking Simulator Final</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>icons/Icon.png</string>
+		<string>icons/Icon@2x.png</string>
+		<string>icons/Icon-167.png</string>
+		<string>icons/Icon-60.png</string>
+		<string>icons/Icon-60@2x.png</string>
+		<string>icons/Icon-60@3x.png</string>
+		<string>icons/Icon-72.png</string>
+		<string>icons/Icon-72@2x.png</string>
+		<string>icons/Icon-76.png</string>
+		<string>icons/Icon-76@2x.png</string>
+		<string>icons/Icon-Small.png</string>
+		<string>icons/Icon-Small@2x.png</string>
+		<string>icons/Icon-Small@3x.png</string>
+		<string>icons/Icon-Small-40.png</string>
+		<string>icons/Icon-Small-40@2x.png</string>
+		<string>icons/Icon-Small-50.png</string>
+		<string>icons/Icon-Small-50@2x.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.kaylaholcomb.Parking-Simulator-Final</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Parking Simulator Final</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>2017.02.041150</string>
+	<key>CoronaDelegates</key>
+	<array/>
+	<key>CoronaSDKBuild</key>
+	<string>2016.2992</string>
+	<key>CoronaViewSupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>14B72</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>10.1</string>
+	<key>DTSDKBuild</key>
+	<string>14B72</string>
+	<key>DTSDKName</key>
+	<string>iphoneos10.1</string>
+	<key>DTXcode</key>
+	<string>0810</string>
+	<key>DTXcodeBuild</key>
+	<string>8B62</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>6.0</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>NSAppleMusicUsageDescription should be set to a valid usage description</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>NSBluetoothPeripheralUsageDescription should be set to a valid usage description</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>NSCalendarsUsageDescription should be set to a valid usage description</string>
+	<key>NSCameraUsageDescription</key>
+	<string>NSCameraUsageDescription should be set to a valid usage description</string>
+	<key>NSContactsUsageDescription</key>
+	<string>NSContactsUsageDescription should be set to a valid usage description</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>NSHealthShareUsageDescription should be set to a valid usage description</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>NSHealthUpdateUsageDescription should be set to a valid usage description</string>
+	<key>NSHomeKitUsageDescription</key>
+	<string>NSHomeKitUsageDescription should be set to a valid usage description</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>NSLocationAlwaysUsageDescription should be set to a valid usage description</string>
+	<key>NSLocationUsageDescription</key>
+	<string>NSLocationUsageDescription should be set to a valid usage description</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>NSLocationWhenInUseUsageDescription should be set to a valid usage description</string>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>NSMainNibFile~ipad</key>
+	<string>MainWindow-iPad</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>NSMicrophoneUsageDescription should be set to a valid usage description</string>
+	<key>NSMotionUsageDescription</key>
+	<string>NSMotionUsageDescription should be set to a valid usage description</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>NSPhotoLibraryUsageDescription should be set to a valid usage description</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>NSRemindersUsageDescription should be set to a valid usage description</string>
+	<key>NSSiriUsageDescription</key>
+	<string>NSSiriUsageDescription should be set to a valid usage description</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>NSSpeechRecognitionUsageDescription should be set to a valid usage description</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UIInterfaceOrientation</key>
+	<string>UIInterfaceOrientationPortrait</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleBlackTranslucent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
